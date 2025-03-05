@@ -1,0 +1,9 @@
+Feature Patch v0.1.1: Rec Rewind
+Welcome to the First version Of Rec Rewind After Years! We Are Finally Back!
+
+Note: This release DOES NOT feature friending yet! This is just a feature patch before that is released in version 0.7.0.
+
+Credits:
+@ynbzongg: Mainly Made Everything.
+@OpenRec: For Making This Possible With Using There Base.
+@Waiboi69: 2021 Builds Help!
